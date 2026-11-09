@@ -1,11 +1,11 @@
 {
-  "version": "0.3.14",
-  "notes": "More reliable updates.\n\n- Automatic checks recover from the download-service issue.\n- The Update button downloads, verifies, installs and restarts Scrilo.\n- Clearer messages when the update service is temporarily unavailable.\n- Your boards, media and sign-in are preserved.",
-  "pub_date": "2026-11-09T06:17:23.994Z",
+  "version": "0.3.15",
+  "notes": "Cleaner board controls.\n\n- A quiet checkmark for Up to date.\n- A clearly labelled Export button.\n- A distinct Update action when a new version is ready.",
+  "pub_date": "2026-11-09T08:23:33.456Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYVROdkwzaWVzQktleHFEeGZUNjAvY0pGU0VkOHVNUnZhaE5PMEJsU2xNY2wrb0hEaW1SVVIwV0E3WHBqUFg2cjBZL0tvQS9FQ0RON2VTR1VVTUY4WGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjA0OTA3CWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTQKeTQvRXp3SURidHZNZHZwNThtdDl6SXlnZkw4VUIyZkhsbDVFUFpCVEJPRklVbWc3eTRUZDV1OWR0MElzOXhSQ01wZXZYeVJRdTRNZjlXNTVZWDBIRGc9PQo=",
-      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/726443018"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYVRJZzFWQlEwd0NFN1VjamxDUVpaQkRNMDUvS1J1Ymg1R3lVRC9iVE1zZnFPOXFPMEczQk10Y2svZzFlZFE5OFJxclNHNnZkY2pJTHNQMzhnZ08zbkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjEyNDExCWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTUKYm42bldQUDJCK3dmRUQxMWRnRE8waFVVQk1HdUQ4akJrVXBoYUpuanNCaE15NWxuREVsaFVuVkVKVWFHb3lNbWR4VXlrd1lTQy8yZGNiWloyblhLREE9PQo=",
+      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/726741384"
     }
   }
 }
