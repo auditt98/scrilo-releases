@@ -1,11 +1,11 @@
 {
-  "version": "0.3.13",
-  "notes": "Update checks now use a separate feed that avoids GitHub download-page timeouts.\n\n- Signed updates download through GitHub’s asset API.\n- Automatic checks, release notes and the single Update button keep working as before.\n- Your boards, media and sign-in are preserved.",
-  "pub_date": "2026-11-09T06:06:23.312Z",
+  "version": "0.3.14",
+  "notes": "More reliable updates.\n\n- Automatic checks recover from the download-service issue.\n- The Update button downloads, verifies, installs and restarts Scrilo.\n- Clearer messages when the update service is temporarily unavailable.\n- Your boards, media and sign-in are preserved.",
+  "pub_date": "2026-11-09T06:17:23.994Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYVNEVDlRM0hFVzRhcDQxazhOSXdPc1kxYW9wbDhpdW53RU9MVWN3ank4bWtla0xJNC9hTFJNWXVDTi93WGEzRFRsSUdoY1dmcUkrdWRDM1dOZ2hLSWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjA0MzMwCWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTMKZ0Ezc3hXcHdNUFExZDZUMHFRODlJRXpNbUkyY2xTV0F6cjFnRGoxVGRsYmhWak5hL3JleWFYZnZYTi9OcUJmTWNHbS9QV05mSnJ6WFlzWW9MN01NQlE9PQo=",
-      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/726427677"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYVROdkwzaWVzQktleHFEeGZUNjAvY0pGU0VkOHVNUnZhaE5PMEJsU2xNY2wrb0hEaW1SVVIwV0E3WHBqUFg2cjBZL0tvQS9FQ0RON2VTR1VVTUY4WGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjA0OTA3CWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTQKeTQvRXp3SURidHZNZHZwNThtdDl6SXlnZkw4VUIyZkhsbDVFUFpCVEJPRklVbWc3eTRUZDV1OWR0MElzOXhSQ01wZXZYeVJRdTRNZjlXNTVZWDBIRGc9PQo=",
+      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/726443018"
     }
   }
 }
