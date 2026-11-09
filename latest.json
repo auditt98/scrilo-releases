@@ -1,11 +1,11 @@
 {
-  "version": "0.3.16",
-  "notes": "A simpler sidebar.\n\n- More room for your boards, with compact New board, search and collection controls.\n- Account, sync details, help and recovery in one expandable footer.\n- Sync status stays visible, including offline and paused uploads.\n- Removed repeated branding and the redundant local-workspace notice.",
-  "pub_date": "2026-11-09T09:06:18.028Z",
+  "version": "0.3.17",
+  "notes": "Board actions, right where you need them.\n\n- Hover any board row to reveal its three-dot menu, including child boards.\n- Rename, favorite, duplicate or delete that board without opening it first.\n- Keyboard and touch access, with menus that stay within the window.",
+  "pub_date": "2026-11-09T09:57:29.475Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYWFoS3ZwV0dHdDNlcHdmM1hEM0x3a05XVjRZZS9xYXdkd0hEQnc5NmRpU3ZmelUvcWVBU2htZWFiNDVXcTRMdS8wU3d1RldvWGRvdGxYUUp2WHNibmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE1MTA3CWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTYKS0p2WUNhOUQvbGdHNUpOSEdrQUp4SEwvellRMDJUM054QjVGR1NPMjQzelNnNk9rRXAxM1crMWpjWDRNcUpaQTYrYU5Rc0ZHd3lKa0RDdXNXVjczRHc9PQo=",
-      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/726855883"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYWFwS1cvcnc4MkYvWEZUNmdSQlV1amlJYnRQbEhQLy8vVWdJb1BXb05RMXViVUhsaVBqWk43cHNtRmpsbkFMWlFMMGxkWE1SL2ViQU0yV3BLcjRvNFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE4MTYwCWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTcKRlU3V1FXYVc1bXkzQlJSSGlOZ2VSRmcwMDUxcjJwV2t4cXFVNmRUMVhxakhPdmphTlhMVVhRUnVWNUFYdzBDejJYRGQ4NEZQYXFNYmU4ckRPV3psQnc9PQo=",
+      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/726993847"
     }
   }
 }
