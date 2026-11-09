@@ -1,11 +1,11 @@
 {
-  "version": "0.3.15",
-  "notes": "Cleaner board controls.\n\n- A quiet checkmark for Up to date.\n- A clearly labelled Export button.\n- A distinct Update action when a new version is ready.",
-  "pub_date": "2026-11-09T08:23:33.456Z",
+  "version": "0.3.16",
+  "notes": "A simpler sidebar.\n\n- More room for your boards, with compact New board, search and collection controls.\n- Account, sync details, help and recovery in one expandable footer.\n- Sync status stays visible, including offline and paused uploads.\n- Removed repeated branding and the redundant local-workspace notice.",
+  "pub_date": "2026-11-09T09:06:18.028Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYVRJZzFWQlEwd0NFN1VjamxDUVpaQkRNMDUvS1J1Ymg1R3lVRC9iVE1zZnFPOXFPMEczQk10Y2svZzFlZFE5OFJxclNHNnZkY2pJTHNQMzhnZ08zbkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjEyNDExCWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTUKYm42bldQUDJCK3dmRUQxMWRnRE8waFVVQk1HdUQ4akJrVXBoYUpuanNCaE15NWxuREVsaFVuVkVKVWFHb3lNbWR4VXlrd1lTQy8yZGNiWloyblhLREE9PQo=",
-      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/726741384"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYWFoS3ZwV0dHdDNlcHdmM1hEM0x3a05XVjRZZS9xYXdkd0hEQnc5NmRpU3ZmelUvcWVBU2htZWFiNDVXcTRMdS8wU3d1RldvWGRvdGxYUUp2WHNibmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE1MTA3CWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTYKS0p2WUNhOUQvbGdHNUpOSEdrQUp4SEwvellRMDJUM054QjVGR1NPMjQzelNnNk9rRXAxM1crMWpjWDRNcUpaQTYrYU5Rc0ZHd3lKa0RDdXNXVjczRHc9PQo=",
+      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/726855883"
     }
   }
 }
