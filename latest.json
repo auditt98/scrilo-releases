@@ -1,11 +1,11 @@
 {
-  "version": "0.3.17",
-  "notes": "Board actions, right where you need them.\n\n- Hover any board row to reveal its three-dot menu, including child boards.\n- Rename, favorite, duplicate or delete that board without opening it first.\n- Keyboard and touch access, with menus that stay within the window.",
-  "pub_date": "2026-11-09T09:57:29.475Z",
+  "version": "0.3.18",
+  "notes": "Keep your boards close.\n\n- Pin the sidebar to keep it open beside your canvas while switching or creating boards.\n- Use Boards to hide or reopen it, and unpin for the temporary drawer.\n- Your pin and visibility choices are remembered on this device.\n- Canvas controls and pasted items adapt to the space beside the sidebar.",
+  "pub_date": "2026-11-09T10:19:39.319Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYWFwS1cvcnc4MkYvWEZUNmdSQlV1amlJYnRQbEhQLy8vVWdJb1BXb05RMXViVUhsaVBqWk43cHNtRmpsbkFMWlFMMGxkWE1SL2ViQU0yV3BLcjRvNFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE4MTYwCWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTcKRlU3V1FXYVc1bXkzQlJSSGlOZ2VSRmcwMDUxcjJwV2t4cXFVNmRUMVhxakhPdmphTlhMVVhRUnVWNUFYdzBDejJYRGQ4NEZQYXFNYmU4ckRPV3psQnc9PQo=",
-      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/726993847"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYVNJWlpIVVdvSEtFMUxHR3prRFVkN29nODFNREx5ci9acHRWWTZCdFN1MzFsd1RPajVSVjdQZlNPVi9IVmNrOTZxTEVzRnJibjUrOUtKbmxGMXZ4YkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE5NDkwCWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTgKbnF6MW5UTE9FaHVQWjNyWGFqNStaSDI4US9maXdlTmZUc2h1RERuMWdjTmYyQW9nQTI5cFJOeGNiZ2V0VFQ2OWtwOHB6Wm1DYXJqZUJYUkxET3dvQnc9PQo=",
+      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/727051854"
     }
   }
 }
