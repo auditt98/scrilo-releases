@@ -1,11 +1,11 @@
 {
-  "version": "0.3.18",
-  "notes": "Keep your boards close.\n\n- Pin the sidebar to keep it open beside your canvas while switching or creating boards.\n- Use Boards to hide or reopen it, and unpin for the temporary drawer.\n- Your pin and visibility choices are remembered on this device.\n- Canvas controls and pasted items adapt to the space beside the sidebar.",
-  "pub_date": "2026-11-09T10:19:39.319Z",
+  "version": "0.3.19",
+  "notes": "Bring agents onto your boards.\n\n- Connect an MCP client from Agents to read, create, edit and organize your boards.\n- See each agent's named, colored cursor and the cards it is working on, including readable labels when agents share a target.\n- Browse and edit freely while agents work on other boards. Agent edits support Undo and check for newer changes before saving.\n- Find other-board activity in the sidebar and recent actions in the Agents panel.\n- Agent access starts off. Enable it when needed, then turn it off to disconnect agents.\n\nMCP connections require Node.js 20 or later. Open Agents → Enable agent access → Connect an MCP client for setup.",
+  "pub_date": "2026-11-12T08:20:22.625Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYVNJWlpIVVdvSEtFMUxHR3prRFVkN29nODFNREx5ci9acHRWWTZCdFN1MzFsd1RPajVSVjdQZlNPVi9IVmNrOTZxTEVzRnJibjUrOUtKbmxGMXZ4YkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjE5NDkwCWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTgKbnF6MW5UTE9FaHVQWjNyWGFqNStaSDI4US9maXdlTmZUc2h1RERuMWdjTmYyQW9nQTI5cFJOeGNiZ2V0VFQ2OWtwOHB6Wm1DYXJqZUJYUkxET3dvQnc9PQo=",
-      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/727051854"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYWZXYjRDZzIzK0lhVTNSQmduL1FxaGt0a09YdkZGVVRoMXBiQnFkNzE3SHBVd2tEOGd0aTNnS0VicmFIV3NxRDY5bURiL1M1OXdCVWJnNWQweHpyaHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDcxNTMzCWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTkKbm4yZ0hORXYvZzV6Z1VZZUYvSFZ0QlA1RmduUzFXL1RlSmFQMnY5cTFabUpjQVBWVjA5NzlYbnpMNmZNOEV1TUNRSDRNTHhMeG9MeVdWd0JNT2M5QXc9PQo=",
+      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/738662765"
     }
   }
 }
