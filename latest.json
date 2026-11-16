@@ -1,11 +1,11 @@
 {
-  "version": "0.3.19",
-  "notes": "Bring agents onto your boards.\n\n- Connect an MCP client from Agents to read, create, edit and organize your boards.\n- See each agent's named, colored cursor and the cards it is working on, including readable labels when agents share a target.\n- Browse and edit freely while agents work on other boards. Agent edits support Undo and check for newer changes before saving.\n- Find other-board activity in the sidebar and recent actions in the Agents panel.\n- Agent access starts off. Enable it when needed, then turn it off to disconnect agents.\n\nMCP connections require Node.js 20 or later. Open Agents → Enable agent access → Connect an MCP client for setup.",
-  "pub_date": "2026-11-12T08:20:22.625Z",
+  "version": "0.3.20",
+  "notes": "Give agents finer control of your board.\n\n- Select several cards through MCP, add or remove cards from a selection, and read your current selection.\n- Keep your view in place while selecting. Agents can focus the view on specific cards when you ask.\n- Read original attachments through MCP, including byte chunks for larger files.\n- Capture a cropped layout preview of specific cards or a column and its contents.\n\nScrilo now provides 14 MCP tools. Selection stays temporary and does not enter saves, sync or Undo history. Selection and focus work on the open board; agents must explicitly open another board before using them there.\n\nReconnect your MCP client after updating to refresh its tool list. Agent access still starts off and can be disabled at any time.",
+  "pub_date": "2026-11-16T16:56:05.778Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYWZXYjRDZzIzK0lhVTNSQmduL1FxaGt0a09YdkZGVVRoMXBiQnFkNzE3SHBVd2tEOGd0aTNnS0VicmFIV3NxRDY5bURiL1M1OXdCVWJnNWQweHpyaHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDcxNTMzCWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTkKbm4yZ0hORXYvZzV6Z1VZZUYvSFZ0QlA1RmduUzFXL1RlSmFQMnY5cTFabUpjQVBWVjA5NzlYbnpMNmZNOEV1TUNRSDRNTHhMeG9MeVdWd0JNT2M5QXc9PQo=",
-      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/738662765"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYWRacGM0QTI0RGVMR0lDVGhxMzUzL1dwQk5XQjQ5aGFlenp1MVJBU2JNY3BwbWhRQXVJMVN0Rk1iVXNzQ0k5a0pLbWY0MUtSUjBsdFlDaVFhUHI2NVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODQ4MTA1CWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjAKN21JcmJ3VnNBR1ovRlYzOVRoYWw1QTlTOHRvV25lejhCUHBEc0xyTC9FS3FtcHdGT0tnNGdRcUh4S2JMelFLK3AwaFdpdVNJVVhobXVxV0FSVDBjQUE9PQo=",
+      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/755658969"
     }
   }
 }
