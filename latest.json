@@ -1,11 +1,11 @@
 {
-  "version": "0.3.20",
-  "notes": "Give agents finer control of your board.\n\n- Select several cards through MCP, add or remove cards from a selection, and read your current selection.\n- Keep your view in place while selecting. Agents can focus the view on specific cards when you ask.\n- Read original attachments through MCP, including byte chunks for larger files.\n- Capture a cropped layout preview of specific cards or a column and its contents.\n\nScrilo now provides 14 MCP tools. Selection stays temporary and does not enter saves, sync or Undo history. Selection and focus work on the open board; agents must explicitly open another board before using them there.\n\nReconnect your MCP client after updating to refresh its tool list. Agent access still starts off and can be disabled at any time.",
-  "pub_date": "2026-11-16T16:56:05.778Z",
+  "version": "0.3.21",
+  "notes": "Cloud attachments now use private Cloudflare R2 storage.\n\n- Interrupted uploads resume from their saved progress.\n- Attachments are checked for complete, matching content before they become available to sync.\n- Existing boards and attachments remain available, including to earlier app versions during the transition.\n\nYour local files stay on your device. Accounts and board sync continue to work as before.",
+  "pub_date": "2026-11-18T08:49:16.247Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYWRacGM0QTI0RGVMR0lDVGhxMzUzL1dwQk5XQjQ5aGFlenp1MVJBU2JNY3BwbWhRQXVJMVN0Rk1iVXNzQ0k5a0pLbWY0MUtSUjBsdFlDaVFhUHI2NVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODQ4MTA1CWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjAKN21JcmJ3VnNBR1ovRlYzOVRoYWw1QTlTOHRvV25lejhCUHBEc0xyTC9FS3FtcHdGT0tnNGdRcUh4S2JMelFLK3AwaFdpdVNJVVhobXVxV0FSVDBjQUE9PQo=",
-      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/755658969"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYVpCaTVoNlNDaXVkWTgyZTI5N2FsK0YwdDJtVXplZVZHNUFuVDBYVzFnd1ZNR1QxSzUzeTl0YW1FMnE2c2N6Tm9YS1FueHJWbnErb3ZKZGh2ak1LckFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTkxNjYzCWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjEKQW9jK3BsZ2VLaUNHSU4rMWloSWQvK0YyVkVXM1hIN01NMTRFQzVXSlpESjZQSnBqa3UrRDlGYXAxWXhocld4YUhBK1R2andKWFZUS2tka0xldTZYQ0E9PQo=",
+      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/762637606"
     }
   }
 }
