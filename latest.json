@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdVN1a2FVUGJMYVpCaTVoNlNDaXVkWTgyZTI5N2FsK0YwdDJtVXplZVZHNUFuVDBYVzFnd1ZNR1QxSzUzeTl0YW1FMnE2c2N6Tm9YS1FueHJWbnErb3ZKZGh2ak1LckFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTkxNjYzCWZpbGU6U2NyaWxvLmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjEKQW9jK3BsZ2VLaUNHSU4rMWloSWQvK0YyVkVXM1hIN01NMTRFQzVXSlpESjZQSnBqa3UrRDlGYXAxWXhocld4YUhBK1R2andKWFZUS2tka0xldTZYQ0E9PQo=",
-      "url": "https://api.github.com/repos/auditt98/scrilo-releases/releases/assets/762637606"
+      "url": "https://github.com/auditt98/scrilo-releases/releases/download/v0.3.21/Scrilo_0.3.21_aarch64.app.tar.gz"
     }
   }
 }
